@@ -30,7 +30,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -38,22 +38,22 @@ twitter: rfelixmg
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: linkedin.com/in/rfelixmg/
+linkedin: rfelixmg/
 # youtube: myyoutube
 # spotify: myspotify
-github: github.com/rfelixmg
+github: rfelixmg
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: rafael.felixalves@adelaide.edu.au
 
 authors:
-    rafafelix:
+    rfelixmg:
         name: Rafa Felix
         bio: PhD candidate, that climbs and enjoy long distance rides.
         external-image: false
@@ -72,6 +72,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+publications: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
