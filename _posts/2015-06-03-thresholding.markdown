@@ -1,5 +1,5 @@
 ---
-title: "Thresholding the courtesy amount of Brazilian bank checks using a local methodology"
+title: "PAAMS2015 - Thresholding the courtesy amount of Brazilian bank checks using a local methodology"
 layout: post
 date: 2015-06-03 10:00
 image: /assets/images/markdown.jpg
@@ -15,7 +15,7 @@ author: rfelixmg
 
 # Thresholding the courtesy amount of Brazilian bank checks using a local methodology
 
-[Rafael Felix](http://rafafelix.com), Leandro Augusto da Silva, [Leandro Nunes de Castro]{https://scholar.google.com/citations?user=peaQM0EAAAAJ&hl=en}
+[Rafael Felix](http://rafafelix.com), Leandro Augusto da Silva, [Leandro Nunes de Castro](https://scholar.google.com/citations?user=peaQM0EAAAAJ&hl=en)
 
 Correspondent author: 
 Rafael Felix  -- rafael dot felixalves at adelaide dot edu dot au
