@@ -1,5 +1,5 @@
 ---
-title: "Basic Visual Machine Learning - ACRV"
+title: "Basic Visual Machine Learning"
 layout: post
 date: 2018-11-20 10:00
 tag: rfelixmg

@@ -14,7 +14,8 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://rfelixmg.github.io/src/cv.pdf
+resume-url: http://rfelixmg.github.io/src/resume_2024.pdf
+#resume-url: src/resume_2024.pdf
 
 url: http://rfelixmg.github.io
 
@@ -34,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: rfelixmg
+twitter: rafafelixphd
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: rfelixmg/
+linkedin: rafafelixphd/
 # youtube: myyoutube
 # spotify: myspotify
 github: rfelixmg
@@ -50,15 +51,15 @@ github: rfelixmg
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: rafael.felixalves@adelaide.edu.au
+email: rafafelixphd@gmail.com
 
 authors:
     rfelixmg:
         name: Rafa Felix
-        bio: PhD candidate, that climbs and enjoy long distance rides.
+        bio: PhD, that climbs and enjoy long distance rides.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: rfelixmg
+        twitter: rafafelixphd
 
 
 # do you want a larger site? change the option below
