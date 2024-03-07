@@ -1,0 +1,41 @@
+---
+title: "DICTA21 - Cross-modal visual question answering for remote sensing data"
+layout: post
+date: 2021-10-31 10:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: publications
+author: rfelixmg
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+# Cross-modal visual question answering for remote sensing data
+
+Rafael Felix; Boris Repasky; Samuel Hodge; Reza Zolfaghari; Ehsan Abbasnejad; Jamie Sherrah
+
+## Abstract
+
+While querying of structured geo-spatial data such as Google Maps has become commonplace, there remains a wealth of unstructured information in overhead imagery that is largely inaccessible to users. This information can be made accessible using machine learning for Visual Question Answering (VQA) about remote sensing imagery. We propose a novel method for Earth observation based on answering natural language questions about satellite images that uses cross-modal attention between image objects and text. The image is encoded with an object-centric feature space, with self-attention between objects, and the question is encoded with a language transformer network. The image and question representations are fed to a cross-modal transformer network that uses cross-attention between the image and text modalities to generate the answer. Our method is applied to the RSVQA remote sensing dataset and achieves a significant accuracy increase over the previous benchmark.
+
+
+## Extra material
+
+[pdf](https://ieeexplore.ieee.org/abstract/document/9647287) 
+|
+[github]() 
+
+Cite:
+```
+@inproceedings{felix2021cross,
+  title={Cross-modal visual question answering for remote sensing data: The international conference on digital image computing: Techniques and applications (dicta 2021)},
+  author={Felix, Rafael and Repasky, Boris and Hodge, Samuel and Zolfaghari, Reza and Abbasnejad, Ehsan and Sherrah, Jamie},
+  booktitle={2021 Digital Image Computing: Techniques and Applications (DICTA)},
+  pages={1--9},
+  year={2021},
+  organization={IEEE}
+}
+```

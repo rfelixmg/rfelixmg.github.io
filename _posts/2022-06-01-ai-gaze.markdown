@@ -1,0 +1,33 @@
+---
+title: "Point-of-Gaze estimation in the wild"
+layout: post
+date: 2022-06-01 10:00
+tag: rfelixmg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: rfelixmg
+externalLink: false
+---
+
+# Point-of-Gaze estimation in the wild
+## A robust approach for PoG tailored for end users
+
+## Abstract 
+
+In a challenging project, I successfully developed a real-time Point of Gaze (PoG) estimation model
+for analyzing ad viewership on social media. My leadership as a tech lead and active engagement as an 
+individual contributor were pivotal in orchestrating a novel, multi-disciplinary approach encompassing 
+data collection, validation, and model construction using RGB images in desktop settings. Key actions 
+included managing large-scale data collection via Amazon Mechanical Turk, creating efficient data processing
+pipelines, and developing a robust CNN model enhanced with pre-trained architectures. We significantly mitigated 
+over-fitting and optimized performance using custom loss functions, achieving an impressive error margin.
+
+This endeavor not only achieved its direct objectives but also propelled the company into new markets such as the UK, 
+Ireland, and Twitch streaming platforms, generating substantial contracts, with similar subsequent agreements. 
+Our project delivered high customer satisfaction, especially in ROI, solidifying the company's market standing and 
+showcasing our team's capabilities in meeting tight deadlines, strategic planning, and fostering collaboration under 
+pressure. This project underlines the importance of clear communication, leadership, and adaptability in dynamic 
+project environments, setting a benchmark for future initiatives.

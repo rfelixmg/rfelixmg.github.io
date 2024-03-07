@@ -1,0 +1,40 @@
+---
+title: "Gaze orientation in Un-Structured environments"
+layout: post
+date: 2022-06-01 10:00
+tag: rfelixmg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: ""
+category: project
+author: rfelixmg
+externalLink: false
+---
+
+# Gaze orientation in Un-Structured environments
+## A robust Gaze orientation approach for solving attention estimation on Out-of-Home advertisement
+
+
+## Abstract
+
+In response to the need for advanced metrics in out-of-home advertising, we developed a pioneering hardware
+and software solution capable of identifying pedestrian traffic and gaze duration on large billboards in
+near real-time. As the tech lead and a hands-on contributor, I played a crucial role in scoping project deliverables,
+conducting cost analyses, and leading the R&D efforts for deploying cutting-edge machine learning algorithms,
+such as object detection and innovating a 3D gaze estimation technique.
+
+Our solution leveraged AWS for efficient 4K data processing and introduced cost-effective hardware, significantly
+improving the accuracy and efficiency of pedestrian count and gaze measurement. This project not only established
+our company as a leader in billboard metrics but also achieved outstanding customer satisfaction and a significant
+return on investment.
+
+Key technical achievements included achieving over 90% precision and recall in object detection, a novel benchmark
+in gaze estimation accuracy, and optimizing processing times to achieve near real-time data handling on cost-effective
+ cloud infrastructure. The business impact was profound, with substantial revenue generation, strategic market
+ positioning, and demonstrable scalability and reproducibility of the solution across vendors.
+
+Looking forward, we aim to explore more cost-effective processing alternatives and enhance data quality through
+advanced camera configurations, ensuring the project's adaptability and continued success in evolving market
+conditions.
+

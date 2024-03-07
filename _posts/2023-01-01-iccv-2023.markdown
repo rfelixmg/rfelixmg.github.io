@@ -1,0 +1,40 @@
+---
+title: "ICCV23 - Progressive Feature Adjustment for Semi-supervised Learning from Pretrained Models"
+layout: post
+date: 2023-10-31 10:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: publications
+author: rfelixmg
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+# Progressive Feature Adjustment for Semi-supervised Learning from Pretrained Models
+
+Hai-Ming Xu, Lingqiao Liu, Hao Chen, Ehsan Abbasnejad, Rafael Felix
+
+## Abstract
+
+As an effective way to alleviate the burden of data annotation, semi-supervised learning (SSL) provides an attractive solution due to its ability to leverage both labeled and unlabeled data to build a predictive model. While significant progress has been made recently, SSL algorithms are often evaluated and developed under the assumption that the network is randomly initialized. This is in sharp contrast to most vision recognition systems that are built from fine-tuning a pretrained network for better performance. While the marriage of SSL and a pretrained model seems to be straightforward, recent literature suggests that naively applying state-of-the-art SSL with a pretrained model fails to unleash the full potential of training data. In this paper, we postulate the underlying reason is that the pretrained feature representation could bring a bias inherited from the source data, and the bias tends to be magnified through the self-training process in a typical SSL algorithm. To overcome this issue, we propose to use pseudo-labels from the unlabelled data to update the feature extractor that is less sensitive to incorrect labels and only allow the classifier to be trained from the labeled data. More specifically, we progressively adjust the feature extractor to ensure its induced feature distribution maintains a good class separability even under strong input perturbation. Through extensive experimental studies, we show that the proposed approach achieves superior performance over existing solutions.
+
+
+## Extra material
+
+[pdf](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Xu_Progressive_Feature_Adjustment_for_Semi-Supervised_Learning_from_Pretrained_Models_ICCVW_2023_paper.pdf) 
+|
+[github]() 
+
+Cite:
+```
+@inproceedings{xu2023progressive,
+  title={Progressive Feature Adjustment for Semi-supervised Learning from Pretrained Models},
+  author={Xu, Hai-Ming and Liu, Lingqiao and Chen, Hao and Abbasnejad, Ehsan and Felix, Rafael},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3292--3302},
+  year={2023}
+}
+```
